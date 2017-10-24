@@ -2,6 +2,7 @@ div.h1{
     margin-left: auto;
     margin-right: auto;
     width: 75%;
+    border: bold black;
     font-style: bold;
 }
 
