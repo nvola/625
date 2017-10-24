@@ -1,3 +1,9 @@
+header{
+    margin-left: auto;
+    margin-right: auto;
+    font-style: bold;;
+}
+
 div.navbar{
     width: 200px;
     border-radius: 15px;
@@ -22,4 +28,9 @@ ul.pages{
 li.nav{
     display: inline;
     padding: 25px;
+}
+
+p{
+    margin-left: auto;
+    margin-right: auto;
 }
