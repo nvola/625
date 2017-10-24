@@ -1,7 +1,7 @@
-h1{
-    margin-left: auto;
-    margin-right: auto;
-    font-style: bold;;
+div.h1{
+    margin: 0 auto;
+    width: 150px;
+    font-style: bold;
 }
 
 div.navbar{
